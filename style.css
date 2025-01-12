@@ -1,0 +1,19 @@
+
+body{
+    background-color:#000000;
+    
+}
+* {
+    color: coral;
+  }  
+h1{
+    color: rgb(255, 0, 89);
+    
+   }
+ button{
+    color: rgb(234, 234, 234);
+    background-color: #368a83;
+    border-radius: 2cap;
+    border-color: aqua;
+ }   
+   
