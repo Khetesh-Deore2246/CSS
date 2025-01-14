@@ -1,13 +1,18 @@
 
 body{
     background-color:#000000;
+   
     
 }
 * {
     color: coral;
   }  
-h1{
+h1,h2{
     color: rgb(255, 0, 89);
+    text-align: center;
+    text-decoration:  red underline;
+    text-decoration-style: dotted;
+    font-weight: 900;
     
    }
  button{
@@ -15,5 +20,23 @@ h1{
     background-color: #368a83;
     border-radius: 2cap;
     border-color: aqua;
+    text-align:center;
+    
  }   
+#one{
+  font-family: cursive;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
+ #two{
+  text-align: end;
+  font-family: cursive;
+  font-family: arial;
+  font-size: 20px;
+  line-height: 30px;
+  line-height: normal;
+  text-transform:uppercase;
+  text-transform: capitalize;
+ 
+ }
    

@@ -1,0 +1,53 @@
+h1{
+    height: 50px;
+    width: 130px;
+    text-align: center;
+    /* border-width: 2px;
+    border-color: black;
+    border-style: solid; */
+    border: 2px solid black;
+    background-color: darksalmon;
+    border-radius: 30px;
+    
+}
+
+#one{
+    height: 100px;
+    width: 400px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    /* padding: 50px; */
+    /* text-align: center; */
+    background-color: bisque;
+}
+#two{
+  /* height: 150px; */
+  width: 50px;
+  background-color: aqua;
+  border: 2px solid black;
+  margin: 40px;
+  margin-left: 200px;
+  border-radius: 30px;
+  text-align: center;
+  padding: 50px;
+  
+  }
+  #two1{
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 10px;
+    margin-left: 200px;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 30px;
+    }
+#practiceset{
+        height: 100px;
+        width: 100px;
+        background-color: black;
+        border-radius: 50%;
+
+    }
