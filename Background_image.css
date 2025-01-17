@@ -1,0 +1,16 @@
+body{
+    background-image:url("temlates/wallpaper.jpeg") ;
+    background-size: cover;
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: inline-block;
+    border: 2px solid black;
+    }
+    #Box1{
+        background-image:url("temlates/nasa-hubble-space-telescope.jpg") ;
+        background-size: cover;
+        color: black
+    }
