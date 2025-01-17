@@ -1,0 +1,44 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: inline-block;
+    border: 2px solid black;
+    }
+
+    #Box1{
+        position: static;
+        background-color: lightpink;
+        
+    }
+    #Box2{
+        display: block;
+        position: sticky;
+        background-color: yellowgreen;
+        top: 100px;
+        left: 0%;
+        
+    }
+    #Box3{
+        background-color: rosybrown;
+        position: absolute;
+        top: 10px;
+    }
+    #Box4{
+        position: fixed;
+        top: 0%;
+        
+        right: 0;
+    }
+    #Box5{
+        position: fixed;
+        background-color: black;
+        color: white;
+        right: 0;
+    }
+    #Box6{
+        background-color: rgb(126, 89, 89);
+        position: absolute;
+        top: 60px;
+        z-index: -1;
+    }
