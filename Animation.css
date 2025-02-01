@@ -23,8 +23,8 @@ background-color: #fff;
     from{ background-color: aquamarine}
     to{background-color: blue}
 }
-@keyframes khetesh
+/* @keyframes khetesh
 {
     form{font: size 2px;}
     to{font: size 40px;}
-}
+} */
