@@ -1,0 +1,17 @@
+div{
+    height: 50px;
+    width: 50px;
+    background-color: pink;
+}
+@media(width : 600px)
+{
+    div{
+        background-color: black;
+    }
+}
+@media(min-width : 300px) and (max-width : 700px)
+{
+    div{
+        background-color: black;
+    }
+}
